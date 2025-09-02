@@ -1,4 +1,4 @@
-### Open to Contact, Suggestions, and Opportunity.
+### Open to Contact & Suggestions.
 
 | Jakarta - New South Wales | +6288-228-664-820 | [business@mwyndham.dev](mailto:business@mwyndham.dev) |[ ](http://www.linkedin.com/in/mwyndham)[LinkedIn ](http://www.linkedin.com/in/mwyndham)| [mwyndham.medium.com](http://mwyndham.medium.com) | [github.com/wyndhamharyata](http://github.com/wyndhamharyata) |
 
