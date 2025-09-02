@@ -21,11 +21,13 @@
 
 ### [Kopimap](https://kopimap.mwyndham.dev)
 
-![kopimap](https://resource.mwyndham.dev/0-Screenshot_2025-09-02_at_23.40.07-20250902164114.webp)My personal coffee shop review site, written in Hono.js, Pure React + Vite, and deployed to Cloudflare Workers via SST.
+<img width="7200" height="2338" alt="Screenshot 2025-09-03 at 00 05 47-imageonline co-merged" src="https://github.com/user-attachments/assets/ae2e5f33-37f2-440b-aaac-ae0c8c0d7ab1" />
+My personal coffee shop review site, written in Hono.js, Pure React + Vite, and deployed to Cloudflare Workers via SST.
 
 ### [Lifecontrol](https://lifecontrol.mwyndham.dev)
 
-![lifecontrol-1](https://resource.mwyndham.dev/0-Screenshot_2025-09-02_at_23.43.26-20250902164422.webp)![lifecontrol-2](https://resource.mwyndham.dev/0-Screenshot_2025-09-02_at_23.44.02-20250902164458.webp)AI-powered calendar management tools, written using the venerable [WebTUI.](https://webtui.ironclad.sh/) Winner of the best design award on WebTUI Hackathon and part of the official showcase.
+<img width="7200" height="2338" alt="Screenshot 2025-09-02 at 23 44 02-imageonline co-merged" src="https://github.com/user-attachments/assets/8e560ece-02f5-4989-9a9b-9db22893baaa" />
+AI-powered calendar management tools, written using the venerable [WebTUI.](https://webtui.ironclad.sh/) Winner of the best design award on WebTUI Hackathon and part of the official showcase.
 
 ### [Marknotes](https://github.com/muhwyndhamhp/marknotes)
 
